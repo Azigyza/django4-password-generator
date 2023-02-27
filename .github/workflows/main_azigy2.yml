@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Azigy2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA7D9B949C864B99A1F1BC141C13E66F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DCA868047F7A4127B5F41FB625DD72D2 }}
